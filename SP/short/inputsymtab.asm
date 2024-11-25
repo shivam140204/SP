@@ -1,0 +1,5 @@
+START 100
+LOOP  MOV AREG, DATA
+      ADD BREG, 5
+DATA  DC 10
+      END

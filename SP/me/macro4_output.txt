@@ -1,0 +1,5 @@
+START
+LDA 1
+ADD 2
+STA 1
+END
